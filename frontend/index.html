@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BST Frontend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Binary Search Tree - Frontend (Spring Boot Backend)</h1>
+
+<div id="tree-display"></div>
+
+<div class="controls">
+    <input type="number" id="inputValue" placeholder="Enter value">
+    <button onclick="insert()">Insert</button>
+    <button onclick="search()">Search</button>
+    <button onclick="deleteNode()">Delete</button>
+</div>
+
+<div id="search-result"></div>
+
+<div class="traversals">
+    <button onclick="getInorder()">Inorder</button>
+    <button onclick="getPreorder()">Preorder</button>
+    <button onclick="getPostorder()">Postorder</button>
+</div>
+
+<div id="traversal-result"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
