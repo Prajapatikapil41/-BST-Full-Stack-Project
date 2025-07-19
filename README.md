@@ -6,7 +6,6 @@ This project implements a **Binary Search Tree (BST)** with:
 * ✅ **Frontend with HTML, CSS, JavaScript** to interact with BST and display inserted nodes live on the screen.
 
 ---
----
 
 ## 🎥 Demo
 ![Chat Demo](https://github.com/Prajapatikapil41/-BST-Full-Stack-Project/blob/main/Codveda_L3T3.gif)
